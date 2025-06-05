@@ -24,11 +24,11 @@ export const projectsData = [
         ],
         link: 'https://github.com/NilayBadjatya/Simon-Game',
     },
-    // {
-    //     title: 'To-Do List API',
-    //     description:
-    //         'A To-Do List API built with Express.js. The project was created as a foundational backend exercise to strengthen my understanding of REST architecture, authentication, and CRUD operations.',
-    //     skills: ['Node.js', 'Express.js', 'MongoDB', 'JWT', 'Postman'],
-    //     link: 'https://github.com/NilayBadjatya/To-Do-List',
-    // },
+    {
+        title: 'DailyDrift - News App',
+        description:
+            'The DailyDrift News App is a React-based web application that delivers real-time news updates by integrating with NewsAPI.org . The app fetches top headlines and articles from various global sources, providing users with up-to-date information.',
+        skills: ['Node.js', 'Express.js', 'React.js', 'HTML', 'CSS'],
+        link: 'https://github.com/NilayBadjatya/To-Do-List',
+    },
 ];
